@@ -1,5 +1,5 @@
-# fashion-rating-web-app# Create the README file
-echo "# Fashion Rating Web App
+# fashion-rating-web-app
+Fashion Rating Web App
 
 A web application that allows users to upload fashion images and receive a rating from a TensorFlow model. Built with Flask for the backend and HTML/CSS/JavaScript for the frontend.
 
@@ -22,22 +22,22 @@ A web application that allows users to upload fashion images and receive a ratin
 
 1. **Clone the repository:**
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/AhmedFaizanDev/fashion-rating-web-app.git
    cd fashion-rating-web-app
-   \`\`\`
+   ```
 
 2. **Install the required packages:**
 
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
    If you don’t have \`requirements.txt\` yet, you can create it with:
 
-   \`\`\`bash
+   ```bash
    pip freeze > requirements.txt
-   \`\`\`
+   ```
 
 3. **Download or create a TensorFlow model file.**
 
@@ -45,9 +45,9 @@ A web application that allows users to upload fashion images and receive a ratin
 
 4. **Run the Flask application:**
 
-   \`\`\`bash
+   ```bash
    python app.py
-   \`\`\`
+   ```
 
 5. **Access the web application:**
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - TensorFlow for machine learning.
 - Flask for the web framework.
-- HTML/CSS/JavaScript for the frontend development." > README.md
+- HTML/CSS/JavaScript for the frontend development.
